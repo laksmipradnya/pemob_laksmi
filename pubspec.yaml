@@ -1,0 +1,19 @@
+name: flutter_application_1  # Tambahkan nama proyek di sini
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  google_fonts: ^4.0.0  # Google Fonts tetap ditambahkan, tapi tidak membuat dependencies baru.
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+flutter:
+  assets:
+    - assets/profile.jpg
+    - assets/icons/singaraja.png
+    - assets/icons/panji.png
+    - assets/icons/all_genre.png
+    - assets/icons/undiksha.png
+
