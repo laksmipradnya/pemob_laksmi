@@ -53,7 +53,7 @@ class ProfileScreen extends StatelessWidget {
               textAlign: TextAlign.center,
             ),
             Text(
-              'http://www.rey1024.com',
+              'http://www.laksmipradnya12.com',
               style: GoogleFonts.poppins(fontSize: 14, color: Colors.blue),
             ),
             const SizedBox(height: 20),
